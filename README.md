@@ -1,2 +1,2 @@
-# Troy-s-Profile
-Troy;s IT  profile. 
+# Troy's Profile
+Troy's IT  profile. 
