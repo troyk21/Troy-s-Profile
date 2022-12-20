@@ -1,8 +1,6 @@
 <html>
 <body style="background-color:lightblue;font-family:times new roman">
-<head>
 
-</head>
 <body>
 
 <h1 style="color:Maroon;border:2px solid darkBlue;font-family:courier;text-align:center;">TROY KIRK</h1>
