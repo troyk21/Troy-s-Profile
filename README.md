@@ -1,6 +1,4 @@
-# Troy-s-Profile
-Troy;s IT  profile. 
- <!DOCTYPE html>
+<!DOCTYPE html>
 
 <html>
 <body style="background-color:lightblue;font-family:times new roman">
@@ -13,21 +11,28 @@ Troy;s IT  profile.
 <h2 style="color:Maroon;">Personal Information<h2>
 
 <h5>
+<img src="headshot.jpg" width="378" height="504"
+alt="Profile Headshot" style= "float: left; margin-right: 10px; margin-bottom: 5px;
+border: solid black 1px; padding: 2px" />
+<br>
+<br>
+<br>
+<br>
 <p>Name:Troy Kirk</p>
 <p>Student Number: s3996531</p>
 <p>Student Email: s3996531@student.rmit.edu.au</p>
-
-<img src="w3schools.jpg" alt="w3schools.com" width="104" height="142">
-
 <p>Nationality: Australian, American and British.</p>
 <p>Education: Certificate IV in Fitness, Bachelor of Paramedical Science and Certificate III in Business. </p>
 <p>Languages spoken: English, minimal Spanish, soon to be Japanese.</p>
 <p>Hobbies: travelling, gaming, running, snowboarding, watching sport. </p>
 <p>Favorite Sports: Ice Hockey, AFL, soccer. Actually, as long as there is a ball I’m interested.</p>
 <p>Family: Erica my wife and Blake my 10-year-old son </p>
-<p>Pet: We have a 40kg mutt named Bernie. He is American Staffy/Australian shepherd/boxer/rottweiler/husky. He has travelled around the world with us and consequently because of immigration related fees might be the world’s most expensive mutt.</p>
-<p>Interesting fact: During the covid outbreak I was lucky enough to live in a ski town and consequently able to snowboard over 200 days over the 19/2020 and 20/2021 winter seasons.</p>
-
+<p>Pet: We have a 40kg mutt named Bernie. He is American Staffy/Australian shepherd/boxer/rottweiler/husky. <br>He has travelled around the world with us and consequently because of immigration related fees might be <br>the world’s most expensive mutt.</p>
+<p>Interesting fact: During the covid outbreak I was lucky enough to live in a ski town and consequently able<br> to snowboard over 200 days over the 19/2020 and 20/2021 winter seasons.</p>
+<br>
+<br>
+<br>
+<br>
 <h2 style="color:Maroon;">Interest in IT<h2>
 <h5>
 <p>Born in the mid-eighties, I grew up in the southeast suburbs of Melbourne. As a youngster technology was minimal and almost nonexistent. I spent my childhood outside riding bikes, building tree houses and playing football. If the streetlights had not turned on yet, then we were still outside. The closest I got to technology before the age of around 10 was the black and white television in the rumpus room. If we were lucky enough on a Saturday night we were allowed to watch “Hey, Hey Its Saturday” on the big Sony Television in the front room.</p>
@@ -47,7 +52,8 @@ Please find job advertisement here:<a href="https://www.teamworkonline.com/hocke
 
 <p></p>
 
-<img src="w3schools.jpg" alt="w3schools.com" width="104" height="142">
+<img src="idealjob.PNG" style="display: block;
+margin-left: auto; margin-right: auto;" />
 
 <p style=text-align:center;>Frontend Developer - National Hockey League</p>
 <p>The National Hockey League is the number one ice hockey league competition in the world. The NHL is looking for a frontend developer to help play a key role in designing, coding and creating all the visual elements that fans log on to their website and expect every day. A frontend developer will participate in code reviews, test and troubleshoot bugs on the website and work directly with project managers to continuing developing high end digital experiences.</p> 
@@ -98,12 +104,10 @@ href="http://www.educationplanner.org/students/self-assessments/learning-styles-
 <p style=text-align:center;>Big 5 Test</p>
 <p style=text-align:center;> <a
 href="http://www.my-personality-test.com">Big 5 Test</a></p>
-<p style=text-align:center;>Openness to Experience – Low Characteristics</p>
-<p style=text-align:center;>Extraversion – Medium Characteristics</p>
-<p style=text-align:center;>Neuroticism – Medium Characteristics</p>
-<p style=text-align:center;>Conscientiousness – Low Characteristics</p>
-<p style=text-align:center;>Agreeableness – Medium Characteristics</p>
-<img src="w3schools.jpg" alt="w3schools.com" width="104" height="142">
+
+<img src="capture2.png" "capture3.png" width="540" height="248" style="display: block;
+margin-left: auto; margin-right: auto;" />
+
 <p>After receiving this these results, I tend to agree with all results apart from one. In the Big 5 test my result was low for openness to experience. One of my favourite things to do is experience new things. The result explained to me that I am a good team member. I can take lead of team if needed and I can sit back and let someone else be the focus of the group. Saying this I always like to help others and make sure I am doing everything I can to complete a goal. I do like to sit back and identify other personality types and how I can adjust my behavior to best mesh with them. When it comes to being part of a team, I am more than happy to play whatever role needs to be done whether that be a leader at the top direct others or a foot soldier at the bottom taking orders and getting the work done.</p>
 
 <h2 style="color:Maroon;">Project Idea</h2>
@@ -145,4 +149,3 @@ I think a combination of these three programs or similar ones will be a good pla
 
 </body>
 </html>
-
