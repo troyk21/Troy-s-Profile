@@ -1,7 +1,7 @@
 <html>
 <body style="background-color:lightblue;font-family:times new roman">
 <head>
-<title>Page Title</title>
+
 </head>
 <body>
 
