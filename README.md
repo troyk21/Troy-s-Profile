@@ -103,7 +103,7 @@ href="http://www.educationplanner.org/students/self-assessments/learning-styles-
 <p style=text-align:center;> <a
 href="http://www.my-personality-test.com">Big 5 Test</a></p>
 
-<img src="capture2.png" "capture3.png" width="540" height="248" style="display: block;
+<img src="capture2.png" width="540" height="248" style="display: block;
 margin-left: auto; margin-right: auto;" />
 
 <p>After receiving this these results, I tend to agree with all results apart from one. In the Big 5 test my result was low for openness to experience. One of my favourite things to do is experience new things. The result explained to me that I am a good team member. I can take lead of team if needed and I can sit back and let someone else be the focus of the group. Saying this I always like to help others and make sure I am doing everything I can to complete a goal. I do like to sit back and identify other personality types and how I can adjust my behavior to best mesh with them. When it comes to being part of a team, I am more than happy to play whatever role needs to be done whether that be a leader at the top direct others or a foot soldier at the bottom taking orders and getting the work done.</p>
